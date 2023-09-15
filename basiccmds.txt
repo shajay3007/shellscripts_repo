@@ -18,3 +18,4 @@ Deleting : i) rm file.ext  // del file.ext
 
 Clear: clear/cls: clear for linux and cls for win
 
+============================================================================================
